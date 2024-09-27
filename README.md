@@ -1,7 +1,3 @@
-Here’s the updated description with **LlamaIndex** and **MultiModalIndex** included:
-
----
-
 # 🎬 MultiModal RAG with Videos
 
 **MultiModal RAG with Videos** is an advanced, AI-powered application that enables users to extract and interact with both visual and textual content from YouTube videos. By integrating state-of-the-art language models (LLMs), this tool allows users to ask complex questions about a video’s content, using a Retrieval-Augmented Generation (RAG) approach. The app processes video, audio, and frames to provide context-aware, accurate responses.
@@ -50,7 +46,3 @@ Here’s the updated description with **LlamaIndex** and **MultiModalIndex** inc
 
 ### 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit PRs to enhance features, improve performance, or suggest new ideas.
-
----
-
-This version includes **LlamaIndex** and **MultiModalVectorStoreIndex**, highlighting their roles in handling multi-modal data and retrieval.
